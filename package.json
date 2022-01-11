@@ -1,0 +1,23 @@
+{
+  "name": "mapty-map",
+  "version": "1.0.0",
+  "description": "App that uses geolocation API's and map API's.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timegated/mapty-map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timegated/mapty-map/issues"
+  },
+  "homepage": "https://github.com/timegated/mapty-map#readme",
+  "dependencies": {
+    "webpack": "^5.65.0"
+  }
+}
